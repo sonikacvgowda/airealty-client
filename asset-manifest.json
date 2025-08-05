@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/airealty-client/static/css/main.e6c13ad2.css",
+    "main.js": "/airealty-client/static/js/main.8680bf06.js",
+    "static/js/453.a3c1d153.chunk.js": "/airealty-client/static/js/453.a3c1d153.chunk.js",
+    "index.html": "/airealty-client/index.html",
+    "main.e6c13ad2.css.map": "/airealty-client/static/css/main.e6c13ad2.css.map",
+    "main.8680bf06.js.map": "/airealty-client/static/js/main.8680bf06.js.map",
+    "453.a3c1d153.chunk.js.map": "/airealty-client/static/js/453.a3c1d153.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8680bf06.js"
+  ]
+}
